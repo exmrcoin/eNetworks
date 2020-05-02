@@ -7,7 +7,9 @@ NAME: EXMR FND.<br>
 SYMBOL: EXMR <br>
 DECIMALS: 18 <br>
 CONTRACT ADDRESS: 0x331fA6C97c64e47475164b9fC8143b533c5eF529 <br>
-Explorer: EXMR FND. code: https://etherscan.io/address/0x331fa6c97c64e47475164b9fc8143b533c5ef529#code
+EXMR FDN Explorer: https://etherscan.io/token/0x331fa6c97c64e47475164b9fc8143b533c5ef529
+Code EXMR FND : https://etherscan.io/address/0x331fa6c97c64e47475164b9fc8143b533c5ef529#code
+
 <details>
     <summary>
         Show ABI here:
@@ -48,7 +50,8 @@ NAME: EXMR FDN ROPSTEN.<br>
 SYMBOL: EXMR <br>
 DECIMALS: 18 <br>
 CONTRACT ADDRESS: 0x6e4fc054b8c80d5de87aecb61340c893bb7cf876 <br>
-Explorer: EXMR FDN ROPSTEN. code:https://ropsten.etherscan.io/address/0x6e4fc054b8c80d5de87aecb61340c893bb7cf876#code
+EXMR FDN Ropsten Explorer: https://ropsten.etherscan.io/token/0x6e4fc054b8c80d5de87aecb61340c893bb7cf876
+Code EXMR FDN Ropsten:https://ropsten.etherscan.io/address/0x6e4fc054b8c80d5de87aecb61340c893bb7cf876#code
 
 # About us: <br>
 We are motivating blockchain developers to integrate their Dapp's with EXMR FDN, and thus receive Bounty rewards, additionally you can start a custom Dapp's for EXMR FDN. and submit it to this repository of EXMR FOUNDATION, so that all developers can integrate into the work and thus all win rewards. <br>
