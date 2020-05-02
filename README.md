@@ -2,7 +2,7 @@
 ![Logo](https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/backclear.png?raw=true)
 # EXMR FND NETWORKS SMART CONTRACT <br>
 It has an integrated staking system which gives its holders a dividend for sending their EXMR FDN to a cold wallet, this percentage ranges from 0.01% to 0.05% daily.<br>
-# Smart contract details<br>
+# Mainnet Smart contract details<br>
 NAME: EXMR FND.<br>
 SYMBOL: EXMR <br>
 DECIMALS: 18 <br>
@@ -42,6 +42,13 @@ Explorer: EXMR FND. code: https://etherscan.io/address/0x331fa6c97c64e47475164b9
         Now the developer community can earn EXMR FDN. by our Bounty program (into our EXMR_FDN.sol)
     </p>
 </details><br>
+
+# Ropsten Smart contract details<br>
+NAME: EXMR FDN ROPSTEN.<br>
+SYMBOL: EXMR <br>
+DECIMALS: 18 <br>
+CONTRACT ADDRESS: 0x6e4fc054b8c80d5de87aecb61340c893bb7cf876 <br>
+Explorer: EXMR FDN ROPSTEN. code:https://ropsten.etherscan.io/address/0x6e4fc054b8c80d5de87aecb61340c893bb7cf876#code
 
 # About us: <br>
 We are motivating blockchain developers to integrate their Dapp's with EXMR FDN, and thus receive Bounty rewards, additionally you can start a custom Dapp's for EXMR FDN. and submit it to this repository of EXMR FOUNDATION, so that all developers can integrate into the work and thus all win rewards. <br>
