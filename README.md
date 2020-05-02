@@ -48,7 +48,9 @@ We are motivating blockchain developers to integrate their Dapp's with EXMR FDN,
 
 # People can now start staking their EXMR FDN. <br> 
 here: https://dapp.exmr.io <br>
-New exchanges and Dapp's coming this 2020!!<br>
+here: https://exmrfoundation.org/freeze <br>
+
+# New exchanges and Dapp's coming this 2020!!<br>
 
 # About our current project <br>
 We have the repository in private for security. <br>
