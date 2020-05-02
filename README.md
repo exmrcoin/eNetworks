@@ -105,6 +105,6 @@ You can visit here https://GetCryptoPayments.com® <br>
 ✦ Voting system<br>
 ✦ Point of Sales (POS)<br>
 ✦ Airdrop Sevices<br>
-✦ ICO Sevices<br>
+✦ IEO+ICO Sevices<br>
 ✦ Exchange Api<br>
 & More..
